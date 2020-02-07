@@ -10,13 +10,13 @@
 @import 'base/reset';
 @import 'base/typography';
 
-@import 'layout/navigation';
-@import 'layout/mainSection';
+@import 'layout/footer';
+@import 'layout/forms';
 @import 'layout/grid';
 @import 'layout/header';
-@import 'layout/footer';
+@import 'layout/mainSection';
+@import 'layout/navigation';
 @import 'layout/sidebar';
-@import 'layout/forms';
 
 @import 'components/buttons';
 @import 'components/carousel';
