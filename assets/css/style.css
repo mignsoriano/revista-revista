@@ -22,6 +22,7 @@ footer {
   align-items: center;
   flex-direction: column;
   font-family: "Merriweather", serif;
+  margin: 10px;
 }
 
 .boton-suscribete {
@@ -36,12 +37,25 @@ footer {
   padding: 5px;
 }
 
+.derechos-reservados {
+  display: flex;
+  justify-content: center;
+}
+
+.foto-ancho {
+  width: 235px;
+}
+
+footer {
+  padding: 20px;
+}
+
 .contenedor {
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
-  background-color: moccasin;
+  background-color: white;
 }
 
 .row {
@@ -488,7 +502,7 @@ body {
     text-align: center;
 }*/
 main {
-  background-color: yellowgreen;
+  background-color: white;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -524,7 +538,7 @@ main {
   }
 }
 nav {
-  background-color: yellow;
+  background-color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -574,14 +588,6 @@ aside {
 
 .listado-izquierdo {
   justify-content: center;
-}
-
-.group {
-  margin-left: 100px;
-}
-
-.titulo-margin {
-  margin-left: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -8,6 +8,7 @@ footer{
     align-items: center;
     flex-direction: column;
     font-family: "Merriweather", serif;
+    margin: 10px;
     
 }
 
@@ -21,4 +22,19 @@ footer{
 
 .altura-caja{
     padding: 5px;
+}
+
+.derechos-reservados{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.foto-ancho{
+    width: 235px;
+}
+
+footer{
+    padding: 20px;
 }
