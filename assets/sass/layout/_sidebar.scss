@@ -1,3 +1,31 @@
 aside{
-    background-color: black;
+    background-color: white;
+    
+}
+
+.lista-tags{
+    display: flex;
+    justify-content: space-around;
+}
+
+.botones-tags{
+    background-color: cornflowerblue;
+    padding: 5px 10px;
+    margin: 0;
+    color: white;
+}
+
+.titulo-tag{
+    margin-left: 5px;;
+}
+
+.listado-izquierdo{
+    justify-content: center;
+}
+
+.group{
+    margin-left: 100px;}
+
+.titulo-margin{
+    margin-left: 100px;
 }
